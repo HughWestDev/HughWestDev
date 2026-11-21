@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="west-dev-banner.png" width="100%" alt="WEST.DEV Developer Banner">
+  <img src="./west-dev-banner.png" alt="WEST.DEV Banner" width="100%">
 </p> 👋 Hello, I'm Hugh West
 
 AI Developer | Game Developer | Software Enthusiast
